@@ -16,6 +16,10 @@ Neste projeto, o objetivo foi testar como um chatbot inteligente, baseado em IA 
 “Qual foi a conclusão dos testes com o GRASP?”
 ✅ Avaliar a capacidade da IA de interpretar um trabalho técnico e gerar respostas contextualizadas
 
+Exemplo do resultado desejado:
+
+![image](https://github.com/user-attachments/assets/81d4f06a-0da9-44a3-ab3b-7c062dd51a46)
+
 🛠️ Tecnologias Utilizadas
 
 Azure OpenAI + LangChain
