@@ -1,0 +1,3 @@
+A meta-heurística GRASP é uma técnica de busca local que combina um processo de construção de soluções iniciais com um processo de melhoria iterativa.
+A função objetivo do Problema do Caixeiro Viajante é minimizar a distância total percorrida pelo viajante, passando por todas as cidades uma única vez.
+A conclusão do trabalho indica que o GRASP apresenta boas soluções iniciais, mas o ILS se mostrou superior em termos de qualidade da solução final.
